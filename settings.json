@@ -1,21 +1,21 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ayscrimayscrim",
+    "username": "KABEDEHACILARA",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Tostum-SMP.aternos.me",
     "port": 60250,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -665.70,
+    "y": 207.00,
+    "z": -229.37
   },
   "utils": {
     "auto-auth": {
@@ -27,12 +27,12 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 6000,
       "messages": [
         "Selam",
-        "Kanala Abone Ol",
+        "CraftCore_TR Kanalına Abone Ol",
         "Minecraft oynamayi Seviyorum!"
       ]
     },
@@ -65,7 +65,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
@@ -74,8 +74,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
