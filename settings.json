@@ -27,13 +27,14 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
-      "repeat": false,
+      "enabled": true,
+      "repeat": true,
       "repeat-delay": 6000,
       "messages": [
         "Selam",
         "CraftCore_TR Kanalına Abone Ol",
-        "Minecraft oynamayi Seviyorum!"
+        "Minecraft oynamayı Seviyorum!",
+        "MineFusion_TR Kanalına Abone Ol"
       ]
     },
     "chat-log": true,
