@@ -1,21 +1,21 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "KABEDEHACILARA",
-    "password": "",
+    "username": "TOSTUM",
+    "password": "tostum123",
     "type": "offline"
   },
   "server": {
     "ip": "Tostum-SMP.aternos.me",
     "port": 60250,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": -665.70,
-    "y": 207.00,
-    "z": -229.37
+    "x": -622.92,
+    "y": 178.00,
+    "z": -249.79 
   },
   "utils": {
     "auto-auth": {
@@ -24,7 +24,7 @@
     },
  "anti-afk": {
   "enabled": true,
-  "actions": ["jump","rotate"]
+  "sneak": true
 },
     "chat-messages": {
       "enabled": true,
