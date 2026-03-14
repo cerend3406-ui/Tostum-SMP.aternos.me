@@ -22,11 +22,10 @@
       "enabled": true,
       "password": "chalol78"
     },
-    "anti-afk": {
-      "enabled": true,
-        "actions": ["jump","rotate"]
-}
-    },
+ "anti-afk": {
+  "enabled": true,
+  "actions": ["jump","rotate"]
+},
     "chat-messages": {
       "enabled": true,
       "repeat": true,
