@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Tostum-SMP.aternos.me",
+    "ip": "Tostum--SMP.aternos.me",
     "port": 57780,
     "version": "",
     "try-creative": false
@@ -27,8 +27,8 @@
   "sneak": true
 },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 6000,
       "messages": [
         "Selam",
