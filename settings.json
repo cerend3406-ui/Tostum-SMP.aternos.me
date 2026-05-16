@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Tostum--SMP.aternos.me",
+    "ip": "Tostum-_SMP.aternos.me",
     "port": 57780,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
